@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cool projects
 - 🧑‍💻 I code in Dart, Python, Java, C++
 - 😎 I have published multiple apps on playstore and they have a collective download of 10K+
-- 📫 Reach me on my email
+- 📫 Reach me at ujjwalcpj123@gmail.com
 
 <!---
 ujjwaltwitx/ujjwaltwitx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
